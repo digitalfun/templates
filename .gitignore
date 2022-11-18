@@ -1,0 +1,20 @@
+# gitignore template by digitalfun
+# see also:
+# - [gitignore templates @Github](https://github.com/github/gitignore)
+# - [gitignore info](https://www.gitignore.io/)
+
+# ignore folders
+#########################################
+/_inbox/
+/_temp/
+
+# ignore project taskfile
+#########################################
+/Taskfile
+/Taskfile.bat
+/Taskfile.sh
+
+#ignore config files
+#########################################
+/.editorconfig
+/.markdownlint.json
