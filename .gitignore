@@ -15,7 +15,7 @@
 /Taskfile.bat
 /Taskfile.sh
 
-#ignore config files
+# ignore config files
 #########################################
 /.editorconfig
 /.markdownlint.json
